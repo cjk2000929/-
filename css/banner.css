@@ -1,0 +1,83 @@
+.banner{
+	width: 100%;
+	height: 768px;
+	background-image: url(../img/i12大.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: #000;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 55px;
+	
+	
+}
+/* .banner h1{
+	
+ 	color: #fff;
+	font-size: 36.8px;
+	line-height: 1.07143;
+	font-weight: 600;
+	margin: 15px;
+	text-decoration:none;
+
+		
+} */
+.banner .text1{
+	color: #fff;
+	font-size: 36.8px;
+	line-height: 1.07143;
+	font-weight: 600;
+	margin: 15px;
+	text-decoration: none;
+	
+}
+.banner .text2{
+	display: block;
+	font-size: 1.5em;
+	margin-block-start: 0.83em;
+	margin-block-end: 0.83em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+	
+}
+/* .banner h2{
+	
+	display: block;
+	font-size: 1.5em;
+	margin-block-start: 0.83em;
+	margin-block-end: 0.83em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: bold;
+	color: #fff;
+	
+	color: #fff;
+	font-size: 36.8px;
+	line-height: 1.07143;
+	font-weight: 600;
+	margin: 20px;
+	text-decoration: none;
+} */
+.banner .link a{
+	margin:15px;
+	line-height: 1.38105;
+	font-weight: 400;
+	letter-spacing:  .011em;
+	color: #6bf;
+	text-decoration:none;
+}
+.banner .link a:hover{
+	text-decoration: underline;
+}
+.promax{
+	color:#fff;
+}
+.time{
+	color:#a1a1a6;
+}
+.fashou{
+	color:#A1A1A6;
+}
